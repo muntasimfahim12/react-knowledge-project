@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "cover": "https://images.unsplash.com/photo-1506765515384-028b60a970df",
+        "cover": "https://i.ibb.co/QFnt9fgk/1.jpg",
         "title": "The Future of AI in Daily Life",
         "author": "Jane Doe",
         "author_img": "https://randomuser.me/api/portraits/women/1.jpg",
@@ -11,7 +11,7 @@
     },
     {
         "id": 2,
-        "cover": "https://images.unsplash.com/photo-1517430816045-df4b7de1a4f1",
+        "cover": "https://i.ibb.co/HTN1kpQ9/2.png",
         "title": "Mastering JavaScript in 2025",
         "author": "John Smith",
         "author_img": "https://randomuser.me/api/portraits/men/2.jpg",
@@ -21,7 +21,7 @@
     },
     {
         "id": 3,
-        "cover": "https://images.unsplash.com/photo-1557804506-669a67965ba0",
+        "cover": "https://i.ibb.co/gqD8rZw/3.png",
         "title": "A Guide to Sustainable Living",
         "author": "Emily Johnson",
         "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
@@ -31,7 +31,7 @@
     },
     {
         "id": 4,
-        "cover": "https://images.unsplash.com/photo-1523475496153-3d6cc9aabf42",
+        "cover": "https://i.ibb.co/Z63pDM1q/4.jpg",
         "title": "Exploring the Power of ChatGPT",
         "author": "Michael Lee",
         "author_img": "https://randomuser.me/api/portraits/men/4.jpg",
